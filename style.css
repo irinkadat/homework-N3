@@ -5,7 +5,7 @@
 
 :root {
     --primary-color: #222f56;
-    --secondary-color: #6286be;
+    --secondary-color: #40649b;
 }
 
 body {
@@ -76,7 +76,7 @@ span p {
 
 .seat_items {
     all: unset;
-    background-color: #6286be;
+    background-color: #40649b;
     padding: 20px;
     text-align: center;
     color: white;
