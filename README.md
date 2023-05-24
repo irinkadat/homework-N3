@@ -8,7 +8,7 @@ Welcome to the Movie Website! This website allows you to explore and choose your
 - Select your preferred movie and reserve seats for a specific showtime.
 - Enjoy an intuitive and user-friendly interface for seamless navigation and interaction.
 
-##Technologies Used
+## Technologies Used
 The Movie Website is built using the following technologies:
 
 - HTML
